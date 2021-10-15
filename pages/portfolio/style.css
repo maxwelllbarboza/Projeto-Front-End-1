@@ -1,0 +1,27 @@
+.page__portfolio{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 80px
+}
+.page__portfolio > *{
+    width: 40%;    
+}
+.page__manager__content {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.page__manager__content .page__manager{
+    max-width: 400px;
+}
+.page__manager__content .page__manager h2{
+    padding-bottom: 40px;
+}
+.page__manager__content .page__manager p{
+    padding-bottom: 40px;
+}
+.page__portfolio__ultimo{
+    padding-bottom: 150px;
+}
+    

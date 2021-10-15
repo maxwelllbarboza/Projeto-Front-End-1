@@ -1,0 +1,29 @@
+.display-row{
+    display: flex;
+    flex-direction: row;
+}
+.display-column{
+    display: flex;
+    flex-direction: column;
+}
+.space-between{
+   justify-content: space-between;
+}
+.space-around{
+    justify-content: space-around; 
+}
+.align-items{
+    align-items: center;
+}    
+.justify-content{
+    justify-content: center;
+}
+.space__left__42{
+    padding-left: 42px;
+}
+.space__right__42{
+    padding-right: 42px;
+}
+.container__seta{
+    margin-left: 70%;
+}    

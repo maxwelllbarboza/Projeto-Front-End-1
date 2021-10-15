@@ -1,0 +1,40 @@
+.contato{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+.contato__container{
+    width: 650px;
+}
+.linha__pagina{
+    width: 1550px;
+    height: 1px;
+    left: 165px;
+    top: 190px;
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.15;
+    
+}
+.icon__rede__social{
+    list-style-type: none;
+    padding-top: 55px;
+}
+.input__formulario{
+    background: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.1;
+    height: 48px;
+    width: 635px;
+    left: 0px;
+    top: 38px;   
+
+}
+.input__texto{
+    height: 96px;
+    width: 635px;
+    left: 0px;
+    top: 38px;   
+}
+.btn__enviar{
+    padding-top: 50px;
+}

@@ -1,0 +1,127 @@
+.font-h1{
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 50px;
+    letter-spacing: -0.4464285671710968px;
+    text-align: left;
+}
+.font-h2{
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: -0.3571428656578064px;
+    text-align: left;
+}
+.font-h3{
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 42px;
+    letter-spacing: -0.2857142984867096px;
+    text-align: left;
+
+}
+.font-body1{
+    font-family: 'Public Sans', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+.font-body2{
+    font-family: 'Public Sans', sans-serif;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: left;
+}
+.font-menu{
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-align: left;
+}
+.font-menu-light{
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-align: left;
+    color: white;
+    text-decoration: none;
+    
+}
+.font-subtexto{
+    font-family: 'Public Sans', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #5FB4A2;
+}
+.font-titulo-retorno{
+    color: #33323D;
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: normal;
+    height: 36px;
+    left: 37.23%;
+    line-height: 36px;
+    /* identical to box height, or 112% */
+    letter-spacing: -0.285714px;
+    right: 0%;
+    top: calc(50% - 36px/2 - 15px);
+    
+}
+.font-texto-retorno{
+    color: #33323D;
+    font-family: 'Public Sans', sans-serif;
+    font-style: normal;
+    font-size: 16px;
+    font-weight: normal;
+    height: 30px;
+    left: -25.53%;
+    line-height: 30px;
+    /* identical to box height, or 187% */
+    mix-blend-mode: normal;
+    opacity: 0.5;
+    right: 0%;
+    top: calc(50% - 30px/2 + 18px);
+}
+.text__right{
+    text-align: right;    
+}
+.text__left{
+    text-align: right;
+}
+.label__formulario{
+    font-family: 'Public Sans', sans-serif;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-align: left;
+    font-weight: bold;
+    color: #33323D;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+
+}

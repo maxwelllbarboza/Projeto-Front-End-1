@@ -1,0 +1,56 @@
+.botao__sobre__mim{
+    background: #203A4C;
+    color: #FFFFFF;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 100;
+    height: 48px;
+    letter-spacing: 2px;
+    line-height: 14px;
+    padding: 17px;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 200px; 
+
+}
+.botao__sobre__mim:hover{
+    background: #5FB4A2;
+   
+}
+.botao__ir__portfolio{
+    border: 1px solid black;
+    color: #33323D;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 2px;
+    line-height: 14px;
+    padding: 17px 28px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.botao__ir__portfolio:hover{
+    background: #33323D;
+    color: #FAFAFA;
+}
+.botao__enviar{
+    border: 1px solid black;
+    background-color: #33323D;
+    color: #FFFFFF;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 2px;
+    line-height: 14px;
+    padding: 17px 60px;
+    text-decoration: none;
+    text-transform: uppercase;
+      
+}
+.botao__enviar:hover{
+    background: #5FB4A2;
+}
