@@ -2,12 +2,12 @@
 
 # Desafio | Front-end - Módulo 1
 
-O objetivo deste exercício é replicar o website encontrado no arquivo 'Desafio front academy 1.fig'.
+* O objetivo é replicar o website encontrado no arquivo 'Desafio front academy 1.fig'.
+* Usei o Flexbox para configurar o layout.
+* Foi usado **HTML** e **CSS**  puro. 
 
-## Páginas obrigatórias
+## Páginas 
  - [Home](#Home)
-
-## Páginas opcionais
  - [Portfolio](#Portfolio)
  - [Portfolio - 01 - Manage](#Portfolio---01---Manage)
  - [Portfolio - 02 - Bookmark](#Portfolio---02---Bookmark)
