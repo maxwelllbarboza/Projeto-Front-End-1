@@ -2,6 +2,8 @@
 
 # Desafio | Front-end - Módulo 1
 
+https://maxwelllbarboza.github.io/Projeto-Front-End-1/
+
 * O objetivo é replicar o website encontrado no arquivo 'Desafio front academy 1.fig'.
 * Usei o Flexbox para configurar o layout.
 * Foi usado **HTML** e **CSS**  puro. 
